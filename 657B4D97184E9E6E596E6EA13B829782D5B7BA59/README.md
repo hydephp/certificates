@@ -1,4 +1,4 @@
-# HydePHP CLI Alpha Key
+# HydePHP CLI Alpha GPG Key
 
 | Fingerprint                                | Status | Scope   | Type    | Expiration |
 |--------------------------------------------|--------|---------|---------|------------|
