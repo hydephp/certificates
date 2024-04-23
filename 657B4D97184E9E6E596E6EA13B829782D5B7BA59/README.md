@@ -1,8 +1,8 @@
 # HydePHP CLI Alpha GPG Key
 
-| Fingerprint                                | Status | Scope   | Type    | Expiration |
-|--------------------------------------------|--------|---------|---------|------------|
-| `657B4D97184E9E6E596E6EA13B829782D5B7BA59` | Active | Signing | rsa3072 | 2026-04-20 |
+| Fingerprint                                | Status | Scope       | Type     | Expiration |
+|--------------------------------------------|--------|-------------|----------|------------|
+| `657B4D97184E9E6E596E6EA13B829782D5B7BA59` | Active | GPG Signing | RSA 3072 | 2026-04-20 |
 
 
 ## Details
