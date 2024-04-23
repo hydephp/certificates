@@ -33,4 +33,5 @@ The following is a list of changes to certificates and public keys, according to
 
 ```plaintext
 CREATED 2024-04-20: 657B4D97184E9E6E596E6EA13B829782D5B7BA59 (HydePHP CLI Alpha Key)
+CREATED 2024-04-22: EE5FC423177F61B096D768E3B3D3CA94C5435426 (HydePHP CLI Bravo Key)
 ```
